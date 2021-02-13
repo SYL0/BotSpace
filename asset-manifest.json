@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BotSpace/static/css/main.ed8cdd01.chunk.css",
+    "main.js": "/BotSpace/static/js/main.dacf8105.chunk.js",
+    "main.js.map": "/BotSpace/static/js/main.dacf8105.chunk.js.map",
+    "runtime-main.js": "/BotSpace/static/js/runtime-main.41b71a6c.js",
+    "runtime-main.js.map": "/BotSpace/static/js/runtime-main.41b71a6c.js.map",
+    "static/css/2.038644eb.chunk.css": "/BotSpace/static/css/2.038644eb.chunk.css",
+    "static/js/2.524e8e10.chunk.js": "/BotSpace/static/js/2.524e8e10.chunk.js",
+    "static/js/2.524e8e10.chunk.js.map": "/BotSpace/static/js/2.524e8e10.chunk.js.map",
+    "static/js/3.960c15a3.chunk.js": "/BotSpace/static/js/3.960c15a3.chunk.js",
+    "static/js/3.960c15a3.chunk.js.map": "/BotSpace/static/js/3.960c15a3.chunk.js.map",
+    "index.html": "/BotSpace/index.html",
+    "precache-manifest.2b727e5687bb4db848af2f71798270e9.js": "/BotSpace/precache-manifest.2b727e5687bb4db848af2f71798270e9.js",
+    "service-worker.js": "/BotSpace/service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "/BotSpace/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.ed8cdd01.chunk.css.map": "/BotSpace/static/css/main.ed8cdd01.chunk.css.map",
+    "static/js/2.524e8e10.chunk.js.LICENSE.txt": "/BotSpace/static/js/2.524e8e10.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BotSpace/static/media/Futuristic Armour.67090871.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b71a6c.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.524e8e10.chunk.js",
+    "static/css/main.ed8cdd01.chunk.css",
+    "static/js/main.dacf8105.chunk.js"
+  ]
+}
